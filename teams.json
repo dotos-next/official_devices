@@ -2,10 +2,19 @@
    {
       "_id":"shreejoy",
       "name":"Shreejoy Dash",
-      "url":"https://myprofile.com/shreejoy",
+      "url":"https://i.imgur.com/XjNjpGe.jpg",
       "core_team":true,
       "devices":[
          "rolex"
+      ]
+   },
+   {
+      "_id":"mohan",
+      "name":"Mohan C M",
+      "url":"https://i.imgur.com/XjNjpGe.jpg",
+      "core_team":true,
+      "devices":[
+         "mido"
       ]
    }
 ]

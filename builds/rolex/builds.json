@@ -2,17 +2,17 @@
   "response":[
     {
       "datetime":1612459475,
-      "filename":"dotOS-R-v5.0.0-davinci-GAPPS-20210204-1724.zip",
+      "filename":"dotOS-R-v5.0.0-rolex-OFFICIAL-20210204-1724.zip",
       "id":"817af9b5b8eab6151c22456634c24dfe",
-      "romtype":"GAPPS",
+      "romtype":"OFFICIAL",
       "size":1666374431,
-      "url":"https://url/update.zip",
+      "url":"https://downloads.sourceforge.net/project/dotos-downloads/dot11/rolex/vanilla/dotOS-R-v5.0.0-rolex-OFFICIAL-20210209-0039.zip",
       "version":"v5.0.0",
       "changelog":[
         {
-          "miscTitle":"",
-          "miscSummary":"",
-          "settingsTitle":"",
+          "miscTitle":"Great Stuffs",
+          "miscSummary":"Next Level",
+          "settingsTitle":"Settings Collapsing toolbar",
           "settingsSummary":"",
           "securityTitle":"",
           "securitySummary":"",
