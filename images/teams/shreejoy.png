@@ -1,0 +1,16 @@
+--2021-02-12 18:22:42--  https://github.com/kakatkarakshay.png?size=200
+Resolving github.com (github.com)... 13.234.210.38
+Connecting to github.com (github.com)|13.234.210.38|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://avatars.githubusercontent.com/u/49910222?s=200&v=4 [following]
+--2021-02-12 18:22:43--  https://avatars.githubusercontent.com/u/49910222?s=200&v=4
+Resolving avatars.githubusercontent.com (avatars.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to avatars.githubusercontent.com (avatars.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8904 (8.7K) [image/jpeg]
+Saving to: ‘kakatkarakshay.png?size=200’
+
+     0K ........                                              100% 10.3M=0.001s
+
+2021-02-12 18:22:43 (10.3 MB/s) - ‘kakatkarakshay.png?size=200’ saved [8904/8904]
+

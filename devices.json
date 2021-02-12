@@ -1,0 +1,12 @@
+[
+   {
+      "name":"Redmi 4A",
+      "brand":"Xiaomi",
+      "codename":"rolex",
+      "xda_thread":"https://forum.xda-developers.com/",
+      "version_info":{
+         "has_vanilla_builds":true,
+         "has_gapps_builds":true
+      }
+   }
+]
